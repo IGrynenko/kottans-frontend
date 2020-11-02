@@ -7,7 +7,7 @@ This is a repository for the Kottans' frontend course
    - basic commands for Vim editor
    - how to exit from the 'git log' command
 2. That deleted commits can be restored within 30 days
-3. 'commit --amend' and 'reser', I do mistaks very often :)
+3. 'commit --amend' and 'reser', I do mistaks very often :smile:
 ![alt text](https://github.com/IGrynenko/kottans-frontend/blob/main/git_and_github/version_control_with_git.png "Version Control with Git")
 ### learngitbranching.js.org
 1. How to work with a remote repositiry when your current branch doesn't correspond whith the remote one.
