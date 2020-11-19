@@ -44,3 +44,19 @@ This is a repository for the Kottans' frontend course
 3. 'cherry-pick' and 'rebase' are definitely among the most useful commands.
 ![alt text](https://github.com/IGrynenko/kottans-frontend/blob/main/task_git_collaboration/learngitbranching_main.png?raw=true "Main")
 ![alt text](https://github.com/IGrynenko/kottans-frontend/blob/main/task_git_collaboration/learngitbranching_remote.png?raw=true "Remote")
+## Intro to HTML and CSS
+### Intro to HTML & CSS (Udacity)
+1. That there is a color picker in Chrome DevTools.
+2. There was nothing surprising :sweat_smile:
+3. The use of the box-shadow property.
+![alt text](https://github.com/IGrynenko/kottans-frontend/blob/main/task_html_css_intro/udacity_intro_html_css.png?raw=true "Udacity HTML CSS")
+### Learn HTML (Codeacedemy)
+1. Stuctured understanding of html tags.
+2. That you can make lists marked with everything including emoji :smiling_imp:
+3. An input with the list of data might be useful in some cases.
+![alt text](https://github.com/IGrynenko/kottans-frontend/blob/main/task_html_css_intro/codeacedemy_html.png?raw=true "Codeacedemy HTML")
+### Learn CSS (Codeacedemy)
+1. The box model, grid, @font-face, etc. So many new things :astonished:
+2. How easy it is to create animation!
+3. Here tons of new stuff I'll be using)
+![alt text](https://github.com/IGrynenko/kottans-frontend/blob/main/task_html_css_intro/codeacedemy_learn_css.png?raw=true "Codeacedemy CSS")
