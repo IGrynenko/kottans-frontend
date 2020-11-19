@@ -32,3 +32,15 @@ This is a repository for the Kottans' frontend course
 1. The difference between http 1.0 vs http 1.1. Also, what parallel connections and persistent connections are.
 2. That document expiration (max-age) is set in seconds and taht there are lots of different things you can do with cashing.
 3. Identification, Authentication and Cache.
+## Git Collaboration
+### GitHub & Collaboration
+1. The fashion in which one can work and contrubite to somoone else's repository, which includes forking and creating pull requests.
+2. The usage of the 'rebase' command to squeeze several commits in one.
+3. How add multiple links to remote repositories to my local repository.
+![alt text](https://github.com/IGrynenko/kottans-frontend/blob/main/task_git_collaboration/github_and_collaboration.png?raw=true "GitHub & Collaboration")
+### learngitbranching.js.org
+1. How to push, pull and fetch in other branches besides master.
+2. How to delete a branch in the remote repository by pushing an empty argument.
+3. 'cherry-pick' and 'rebase' are definitely among the most useful commands.
+![alt text](https://github.com/IGrynenko/kottans-frontend/blob/main/task_git_collaboration/learngitbranching_main.png?raw=true "Main")
+![alt text](https://github.com/IGrynenko/kottans-frontend/blob/main/task_git_collaboration/learngitbranching_remote.png?raw=true "Remote")
