@@ -60,3 +60,12 @@ This is a repository for the Kottans' frontend course
 2. How easy it is to create animation!
 3. Here tons of new stuff I'll be using)
 ![alt text](https://github.com/IGrynenko/kottans-frontend/blob/main/task_html_css_intro/codeacedemy_learn_css.png?raw=true "Codeacedemy CSS")
+## Responsive Web Design
+### Responsive Web Design Fundamentals
+1. Understanding of such concepts as the viewport, DPI and pixel ratio.
+2. That of how to deal with images and tables so as to make them responsive.
+3. In the future work the knowledge of media queries and 'off canvas' will be of a huge help.
+![alt text](https://github.com/IGrynenko/kottans-frontend/blob/main/task_responsive_web_design/udacity_responsive_web_design.png?raw=true "Responsive Web Design Fundamentals")
+### Flexbox Froggy
+A good practice to strengthen one's knowledge ragarding the flex tech. Essentially nothing new yet a good way to get some practical experience.
+![alt text](https://github.com/IGrynenko/kottans-frontend/blob/main/task_responsive_web_design/flexboxfroggy.png?raw=true "Flexbox Froggy")
